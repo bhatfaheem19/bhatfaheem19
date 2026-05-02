@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Bhat Faheem]
+# 👋 Hi, I'm Bhat Faheem
 
 🚀 16 y/o full-stack developer building end-to-end systems & exploring AI
 ⚡ Focused on scalable backend architecture and real-world applications
@@ -56,7 +56,7 @@
 
 ## 📫 Contact
 
-* Email: [your@email.com](mailto:bhatfaheemx19@gmail.com)
+* Email: [bhatfaheemx19@gmail.com](mailto:bhatfaheemx19@gmail.com)
 * Portfolio: coming soon
 
 ---
